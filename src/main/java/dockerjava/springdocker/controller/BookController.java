@@ -17,7 +17,7 @@ public class BookController {
 
     @GetMapping
     public String getBookName() {
-        return "1111";
+        return "222222";
         //return bookRepository.getBookName(2);
     }
 }
